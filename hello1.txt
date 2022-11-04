@@ -14,5 +14,4 @@ hello zw!hello git!hello zhaowe
 hello zw!hello git!hello zhaowe 
 hello zw!hello git!hello zhaowe 
 hello zw!hello git!hello zhaowe master testi
-hello zw!hello git!hello zhaowe
-
+hello zw!hello git!hello zhaowe hot-fix text 
